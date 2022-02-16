@@ -71,9 +71,9 @@ header> nav>ul>li>a.on{
     color: #fff;
     font-size: 14px;
     height: 36px;
+    display: flex;
     text-align: center;    
     justify-content: center;
     align-items: center;
-    padding: 5px;
 }
 
